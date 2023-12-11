@@ -771,5 +771,6 @@ void GOButtons() /// aceasta functie inregistreaza toate apasaturile de mouse si
         clearviewport();
         MainMenu();
         closegraph();
+        cout<<1;
         return 0;
     }
